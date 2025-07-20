@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Jekyll!
+title: A New Post
 categories: update
 ---
 ## A New Post
