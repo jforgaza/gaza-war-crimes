@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A New Post
+title: your-filename
 categories: update
 ---
 ## A New Post
